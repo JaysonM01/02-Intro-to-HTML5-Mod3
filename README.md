@@ -2,4 +2,4 @@ This html is about me and some contents. This file will be updated with what wil
 
 
 About this Project:
-    - This will be the base of my web development project and will be improved
+    - This will be the base of my web development project and will be improved.
